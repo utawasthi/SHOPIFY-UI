@@ -1,7 +1,5 @@
 # Shopify UI Clone
 
-> ## [Shivam Shukla](https://ishivamshukla.in)
-
 <br/>
 
 ![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-Yes-green)
