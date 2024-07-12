@@ -14,10 +14,6 @@
 
 ---
 
-### Checkout the live website [here](#).
-
----
-
 ## My Learnings
 
 -   Skills Gained in this project
